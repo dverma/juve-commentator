@@ -1,0 +1,14 @@
+{
+  "client_auth": {
+      "consumer_key": "IM7urD4r1ZcpKqN3BdH06DQjL",
+      "consumer_secret": "LlwC83NHXcehfDJcmBGUmbAXDmaBLOHAQ0soP7XK1j4PaCVlgV",
+      "access_token_key": "15014697-KRIMwIStLCvv6ZvKG1iRCeGT3jvgoYZnTwvDjtsu4",
+      "access_token_secret": "sup94PVheIu7SovH61Cd2x3OzeePR8FPr4xSlfxqmkjBS"
+  },
+  "api" : "statuses/filter",
+  "api_params": {
+      "stall_warnings": "true",
+      "follow": "1638021792, 846560885439168513",
+      "track": ""
+  }
+}
